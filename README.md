@@ -12,9 +12,9 @@ Set up the test scenarios, including the number of users, ramp-up period, and te
 Define the requests and expected responses in your test script.
 
 Testing:
-Home page.
-Login page.
-Add to cart page.
+1.Home page. https://www.rokomari.com/book
+2.Login page. https://www.rokomari.com/login
+3,Add to cart page. https://www.rokomari.com/cart/new
 
 Test result Analysis:
 10 users successfully enter home page in 1 second.
