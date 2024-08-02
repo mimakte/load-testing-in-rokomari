@@ -17,6 +17,6 @@ Testing:
 3,Add to cart page. https://www.rokomari.com/cart/new
 
 Test result Analysis:
-10 users successfully enter home page in 1 second.
-10 users successfully login in 1 second. 
-10 users successfully add to cart in 1 second.
+1.10 users successfully enter home page in 1 second.
+2.10 users successfully login in 1 second. 
+3.10 users successfully add to cart in 1 second.
