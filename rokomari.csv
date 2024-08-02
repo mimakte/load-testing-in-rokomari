@@ -1,0 +1,31 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1722604449916,2073,home page,200,OK,user 1-2,text,true,,525065,122,10,10,https://www.rokomari.com/book,1491,0,736
+1722604450404,1709,home page,200,OK,user 1-7,text,true,,525387,122,10,10,https://www.rokomari.com/book,1132,0,308
+1722604450107,2065,home page,200,OK,user 1-4,text,true,,526121,122,10,10,https://www.rokomari.com/book,1265,0,545
+1722604450205,2089,home page,200,OK,user 1-5,text,true,,525082,122,10,10,https://www.rokomari.com/book,1228,0,447
+1722604450605,1718,home page,200,OK,user 1-9,text,true,,530771,122,10,10,https://www.rokomari.com/book,1027,0,320
+1722604450503,1854,home page,200,OK,user 1-8,text,true,,529127,122,10,10,https://www.rokomari.com/book,1110,0,307
+1722604451990,384,login page,200,OK,user 1-2,text,true,,47715,123,10,10,https://www.rokomari.com/login,373,0,0
+1722604452113,342,login page,200,OK,user 1-7,text,true,,47713,123,10,10,https://www.rokomari.com/login,336,0,0
+1722604450703,1856,home page,200,OK,user 1-10,text,true,,534824,122,10,10,https://www.rokomari.com/book,894,0,310
+1722604450005,2556,home page,200,OK,user 1-3,text,true,,528991,122,10,10,https://www.rokomari.com/book,1835,0,647
+1722604452172,393,login page,200,OK,user 1-4,text,true,,47711,123,10,10,https://www.rokomari.com/login,361,0,0
+1722604452323,331,login page,200,OK,user 1-9,text,true,,47711,123,10,10,https://www.rokomari.com/login,322,0,0
+1722604452358,336,login page,200,OK,user 1-8,text,true,,47709,123,10,10,https://www.rokomari.com/login,325,0,0
+1722604449916,2792,home page,200,OK,user 1-1,text,true,,531502,122,10,10,https://www.rokomari.com/book,1456,0,736
+1722604452295,515,login page,200,OK,user 1-5,text,true,,47715,123,10,10,https://www.rokomari.com/login,327,0,0
+1722604452561,329,login page,200,OK,user 1-3,text,true,,47713,123,10,10,https://www.rokomari.com/login,324,0,0
+1722604452560,351,login page,200,OK,user 1-10,text,true,,47705,123,10,10,https://www.rokomari.com/login,346,0,0
+1722604452709,369,login page,200,OK,user 1-1,text,true,,47709,123,10,10,https://www.rokomari.com/login,355,0,0
+1722604450302,2947,home page,200,OK,user 1-6,text,true,,530146,122,10,10,https://www.rokomari.com/book,2223,0,1354
+1722604452565,714,add to cart page,200,OK,user 1-4,text,true,,91908,126,10,10,https://www.rokomari.com/cart/new,610,0,0
+1722604452456,823,add to cart page,200,OK,user 1-7,text,true,,93153,126,10,10,https://www.rokomari.com/cart/new,677,0,0
+1722604452655,644,add to cart page,200,OK,user 1-9,text,true,,91904,126,8,8,https://www.rokomari.com/cart/new,631,0,0
+1722604452695,650,add to cart page,200,OK,user 1-8,text,true,,93155,126,7,7,https://www.rokomari.com/cart/new,636,0,0
+1722604452891,564,add to cart page,200,OK,user 1-3,text,true,,93155,126,6,6,https://www.rokomari.com/cart/new,552,0,0
+1722604452911,569,add to cart page,200,OK,user 1-10,text,true,,93157,126,5,5,https://www.rokomari.com/cart/new,552,0,0
+1722604452810,741,add to cart page,200,OK,user 1-5,text,true,,88313,126,4,4,https://www.rokomari.com/cart/new,717,0,0
+1722604453250,305,login page,200,OK,user 1-6,text,true,,47711,123,3,3,https://www.rokomari.com/login,298,0,0
+1722604452375,1554,add to cart page,200,OK,user 1-2,text,true,,93161,126,3,3,https://www.rokomari.com/cart/new,677,0,0
+1722604453079,937,add to cart page,200,OK,user 1-1,text,true,,88311,126,2,2,https://www.rokomari.com/cart/new,585,0,0
+1722604453555,543,add to cart page,200,OK,user 1-6,text,true,,91898,126,1,1,https://www.rokomari.com/cart/new,526,0,0
